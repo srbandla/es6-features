@@ -143,4 +143,6 @@ tmpl = tmpl.replace(/%BODY%/, out).replace(/%NAV%/, nav)
 /*  write the resulting HTML page  */
 fs.writeFileSync("index.html", tmpl, "utf8")
 
-serdtfgyhujikolftgihjkl;fgyihjkl
+oefmoifoksd,lkfl'sd,k,dsk
+mdsnf jsd kjslkdmck
+jknjpdsnvjdms
